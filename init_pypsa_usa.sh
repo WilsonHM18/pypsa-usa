@@ -11,3 +11,5 @@ else
     echo "Existing config files found in '$destination'. Delete the following files and rerun."
     echo "$existing_files"
 fi
+
+# Make changes to work on Windows
